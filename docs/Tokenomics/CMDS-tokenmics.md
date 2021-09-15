@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 id: cmds-tokenomics
 title: ⛓ CMDS Tokenomics
 description: CmdSwap Tokenomics

@@ -6,5 +6,24 @@ description: CmdSwap Roadmap
 slug: /roadmap
 ---
 
-**Cmdswap** is the decentralized exchange platform.
-We are a decentralized exchange platform for swapping ERC-20 tokens on Arbitrum.
+## Short Terms
+
+- [ ] Mobile Friendly
+- [ ] Weekly CMDS token burning
+- [ ] Faster Site
+- [ ] Analytics
+
+## Medium Terms
+
+- [ ] Certik audit verifying
+- [ ] Local commuities
+- [ ] Referral Program
+- [ ] Translations
+- [ ] Voting
+
+## Long Term
+
+- [ ] Merchandise Shop
+- [ ] Listing CMDS on CMC & CoinGecko
+- [ ] Initial Farm Offering
+- [ ] Strategic Partnerships

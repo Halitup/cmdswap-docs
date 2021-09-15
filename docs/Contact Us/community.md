@@ -5,3 +5,10 @@ title: 👥 Community
 description: CmdSwap community
 slug: /community
 ---
+
+Our community is an integral part of our development. Our community is an integral part of our development.
+
+**Join our official social media profiles and stay up-to-date with the latest news and updates:**
+
+- [Discord](https://discord.gg/X6R9Ea7peu)
+- [Telegram](https://t.me/cmdswap)

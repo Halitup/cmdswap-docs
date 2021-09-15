@@ -51,10 +51,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             position: "left",
             label: "V1",
           },
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
         ],
       },
       footer: {
@@ -78,7 +74,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               },
               {
                 label: "Telegram",
-                href: "https://twitter.com/cmdswap",
+                href: "https://t.me/cmdswap",
               },
             ],
           },
