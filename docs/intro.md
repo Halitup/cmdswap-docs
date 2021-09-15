@@ -3,7 +3,7 @@ sidebar_position: 1
 id: intro
 title: 💻 CmdSwap Intro
 description: CmdSwap Introduction
-slug: /
+slug: /intro
 ---
 
 **Cmdswap** is Decentralized trading protocol on Arbitrum.
