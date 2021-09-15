@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-id: intro
-title: 💻 CmdSwap Intro
-description: CmdSwap Introduction
-slug: /
+sidebar_position: 2
+id: roadmap
+title: 🛣 Roadmap
+description: CmdSwap Roadmap
+slug: /roadmap
 ---
 
 **Cmdswap** is the decentralized exchange platform.

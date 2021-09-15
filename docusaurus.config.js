@@ -7,13 +7,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
   module.exports = {
     title: "cmd swap",
     tagline: "Decentralized trading protocol on Arbitrum",
-    url: "https://cmdswap.org",
+    url: "https://docs.cmdswap.org",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
     organizationName: "cmdswap",
-    projectName: "cmdswap",
+    projectName: "cmdswap-docs",
 
     presets: [
       [
@@ -32,6 +32,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       ],
     ],
 
+    i18n: {
+      defaultLocale: "en",
+      locales: ["en", "ko"],
+    },
+
     themeConfig: {
       navbar: {
         title: "cmd swap",
@@ -47,8 +52,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             label: "V1",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            type: "localeDropdown",
             position: "right",
           },
         ],

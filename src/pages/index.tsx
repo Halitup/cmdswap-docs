@@ -5,6 +5,8 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 
+import Translate, { translate } from "@docusaurus/Translate";
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -29,7 +31,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`CmdSwap Docs ${siteConfig.title}`}
+      title={`cmdSwap Docs ${siteConfig.title}`}
       description="Decentralized trading protocol on Arbitrum Docs"
     >
       <HomepageHeader />

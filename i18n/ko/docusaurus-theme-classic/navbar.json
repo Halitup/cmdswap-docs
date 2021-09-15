@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "cmd swap",
+    "description": "The title in the navbar"
+  },
+  "item.label.V1": {
+    "message": "V1",
+    "description": "Navbar item with label V1"
+  }
+}
