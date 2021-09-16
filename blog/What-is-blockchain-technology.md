@@ -1,7 +1,7 @@
 ---
 title: What is blockchain technology?
 description: What is blockchain technology?
-slug: What-is-blockchain-technology?
+slug: What-is-blockchain-technology
 authors: [haga]
 tags: [Blockchain, Beginner]
 ---
