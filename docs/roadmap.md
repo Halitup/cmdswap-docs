@@ -2,7 +2,7 @@
 sidebar_position: 2
 id: roadmap
 title: 🛣 Roadmap
-description: CmdSwap Roadmap
+description: Cmdswap Roadmap
 slug: /roadmap
 ---
 

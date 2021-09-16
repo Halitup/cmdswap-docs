@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-id: intro
-title: 💻 Cmdswap Intro
-description: Cmdswap Introduction
-slug: /intro
+title: Introducing Cmdswap
+description: Introducing Cmdswap
+slug: Introducing Cmdswap
+authors: [dilrong]
+tags: [cmdswap, introduce]
 ---
 
 **Cmdswap** is Decentralized trading protocol on Arbitrum.
@@ -19,3 +19,5 @@ Because of the Ethereum Layer 2 Arbitrum network, it guarantees excellent speed 
 We strive to provide true value, fairness, and innovation to decentralized finance through high-quality products and services.
 
 cmdswap allows anyone to exchange tokens quickly and safely.
+
+see more detail our [v1 docs page](http://docs.cmdswap.org/docs/intro)

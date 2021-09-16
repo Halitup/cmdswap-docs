@@ -2,6 +2,6 @@
 sidebar_position: 1
 id: business-partnerships
 title: 🤝 Business Partnerships
-description: CmdSwap BusinessPartnerships
+description: Cmdswap BusinessPartnerships
 slug: /business-partnerships
 ---

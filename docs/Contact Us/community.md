@@ -2,7 +2,7 @@
 sidebar_position: 3
 id: community
 title: 👥 Community
-description: CmdSwap community
+description: Cmdswap community
 slug: /community
 ---
 
@@ -12,3 +12,4 @@ Our community is an integral part of our development. Our community is an integr
 
 - [Discord](https://discord.gg/X6R9Ea7peu)
 - [Telegram](https://t.me/cmdswap)
+- [Twitter](https://twitter.com/cmdswap)

@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "cmd swap",
+    title: "Cmdswap",
     tagline: "Decentralized trading protocol on Arbitrum",
     url: "https://docs.cmdswap.org",
     baseUrl: "/",
@@ -23,6 +23,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
+            editUrl: "https://github.com/cmdswap/cmdswap-docs",
+          },
+          blog: {
+            showReadingTime: true,
             editUrl: "https://github.com/cmdswap/cmdswap-docs",
           },
           theme: {
@@ -51,17 +55,26 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             position: "left",
             label: "V1",
           },
+          {
+            position: "left",
+            label: "Blog",
+            to: "/blog",
+          },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Learn",
             items: [
               {
                 label: "V1",
                 to: "/docs/intro",
+              },
+              {
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
@@ -75,6 +88,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               {
                 label: "Telegram",
                 href: "https://t.me/cmdswap",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/cmdswap",
               },
             ],
           },

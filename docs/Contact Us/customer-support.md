@@ -2,11 +2,11 @@
 sidebar_position: 2
 id: customer-support
 title: 🦾 Customer Support
-description: CmdSwap Customer Support
+description: Cmdswap Customer Support
 slug: /customer-support
 ---
 
-## There is NO customer support for CmdSwap.
+## There is NO customer support for Cmdswap.
 
 If you're experiencing issues,
 

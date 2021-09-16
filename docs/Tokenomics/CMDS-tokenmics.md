@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: cmds-tokenomics
 title: ⛓ CMDS Tokenomics
-description: CmdSwap Tokenomics
+description: Cmdswap Tokenomics
 slug: /cmds-tokenomics
 ---
 
@@ -25,7 +25,7 @@ Allocation of 90 Million CMDS toknes is as follows:
 - **SAFU**: 1% per block (emergency insurance fund)
 - **Team**: 9% per block
 
-cmdswap will also allocate 10 million CMDS tokens for Transaction Fee Mining.
+Cmdswap will also allocate 10 million CMDS tokens for Transaction Fee Mining.
 
 ### The Deflationary Mechanism
 
