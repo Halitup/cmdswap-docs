@@ -14,7 +14,7 @@ slug: /cmds-tokenomics
 - **Start of Supply**: from 10 000 000 CMDS tokens (allocated for the initial liquidity, marketing and strategic partnership purposes)
 - **Contract Address**: -
 
-Out of these 10 000 000 tokens, 400 000 BSW tokens will be used to secure the initial liquidity.
+Out of these 10 000 000 tokens, 400 000 CMDS tokens will be used to secure the initial liquidity.
 
 ### Distribution of Tokens
 

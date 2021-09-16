@@ -1,0 +1,17 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 150px;
+  width: 150px;
+}
+
+html[data-theme="dark"] .featureSvg {
+  fill: white;
+  height: 150px;
+  width: 150px;
+}
