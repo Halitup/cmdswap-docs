@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmdswap_docs=self.webpackChunkcmdswap_docs||[]).push([[141],{170:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/introduce","name":"introduce","count":1,"permalink":"/blog/tags/introduce"}')}}]);

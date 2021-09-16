@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmdswap_docs=self.webpackChunkcmdswap_docs||[]).push([[535],{5641:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Cmdswap","permalink":"/blog/Introducing Cmdswap"}]}')}}]);

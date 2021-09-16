@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cmdswap Blog</title>
+        <link>https://docs.cmdswap.org/blog</link>
+        <description>Cmdswap Blog</description>
+        <lastBuildDate>Thu, 16 Sep 2021 02:14:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing Cmdswap]]></title>
+            <link>https://docs.cmdswap.org/blog/Introducing Cmdswap</link>
+            <guid>Introducing Cmdswap</guid>
+            <pubDate>Thu, 16 Sep 2021 02:14:02 GMT</pubDate>
+            <description><![CDATA[Introducing Cmdswap]]></description>
+        </item>
+    </channel>
+</rss>

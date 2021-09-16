@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmdswap_docs=self.webpackChunkcmdswap_docs||[]).push([[405],{9888:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cmdswap","name":"cmdswap","count":1,"permalink":"/blog/tags/cmdswap"}')}}]);
