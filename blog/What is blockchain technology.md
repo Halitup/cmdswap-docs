@@ -6,15 +6,15 @@ authors: [haga]
 tags: [Blockchain, Beginner]
 ---
 
-### Table of contents -
-# 1. What is blockchain technology?
+### 1. What is blockchain technology?
+
 **1-1 Type of blockchain**. 
 
 **1-2. The use of blockchain**. 
 
 **1-3. Terms related to blockchain**. 
 
-# 1. What is blockchain technology?
+### 1. What is blockchain technology?
 
 Blockchain technology is a data storage technology that cannot be forged, changed, or hacked in summary with data distribution processing technology.
 Satoshi Sakamoto recognized the risks of the centralized financial system through the 2007 global financial crisis and devised a blockchain technology that enables transactions between individuals.
