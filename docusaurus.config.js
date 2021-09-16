@@ -36,10 +36,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       ],
     ],
 
-    gtag: {
-      trackingID: "GTM-NDFDNKW",
-    },
-
     i18n: {
       defaultLocale: "en",
       locales: ["en", "ko"],
@@ -118,6 +114,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         apiKey: "1573138dc6207960c783aa7d849b33fb",
         indexName: "cmdswap",
         appId: "KUPFGINMTG",
+      },
+      gtag: {
+        trackingID: "GTM-NDFDNKW",
       },
     },
   }
