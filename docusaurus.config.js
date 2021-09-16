@@ -36,6 +36,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       ],
     ],
 
+    gtag: {
+      trackingID: "GTM-NDFDNKW",
+    },
+
     i18n: {
       defaultLocale: "en",
       locales: ["en", "ko"],
