@@ -124,11 +124,11 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged",
+    "message": "하나의 문서가 태그됨|{count}개 문서 태그됨",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\"",
+    "message": "{nDocsTagged} 와 \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
@@ -168,11 +168,11 @@
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu",
+    "message": "← 기본 메뉴로 돌아가기",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions",
+    "message": "버전",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.common.skipToMainContent": {
@@ -180,7 +180,7 @@
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
+    "message": "이 페이지에서",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.tags.tagsListLabel": {
@@ -208,7 +208,7 @@
     "description": "The ARIA label for search page input"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia",
+    "message": "Algolia로 검색",
     "description": "The ARIA label for Algolia mention"
   },
   "theme.SearchPage.noResultsText": {

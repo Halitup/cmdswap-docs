@@ -12,11 +12,19 @@
     "description": "The label for category Products in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Safu": {
-    "message": "Safu",
+    "message": "SAFU",
     "description": "The label for category Safu in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tokenomics": {
     "message": "토크노믹스",
     "description": "The label for category Tokenomics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.current": {
+    "message": "current",
+    "description": "The label for category current in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SAFU": {
+    "message": "SAFU",
+    "description": "The label for category SAFU in sidebar tutorialSidebar"
   }
 }
