@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "cmd swap",
+    "description": "The title in the navbar"
+  },
+  "item.label.V1": {
+    "message": "V1",
+    "description": "Navbar item with label V1"
+  },
+  "item.label.Blog": {
+    "message": "블로그",
+    "description": "Navbar item with label Blog"
+  }
+}

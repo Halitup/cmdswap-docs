@@ -22,12 +22,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         ({
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
-            // Please change this to your repo.
-            editUrl: "https://github.com/cmdswap/cmdswap-docs",
+            editUrl: "https://github.com/cmdswap/cmdswap-docs/tree/main/docs",
           },
           blog: {
             showReadingTime: true,
-            editUrl: "https://github.com/cmdswap/cmdswap-docs",
+            editUrl: "https://github.com/cmdswap/cmdswap-docs/tree/main/blog",
           },
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
@@ -38,12 +37,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     i18n: {
       defaultLocale: "en",
-      locales: ["en", "ko"],
+      locales: ["en", "ko", "zh-CN", "ja"],
     },
 
     themeConfig: {
       navbar: {
-        title: "cmd swap",
+        title: "cmdswap",
         logo: {
           alt: "cmd swap Logo",
           src: "img/logo.svg",
@@ -59,6 +58,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             position: "left",
             label: "Blog",
             to: "/blog",
+          },
+          {
+            type: "localeDropdown",
+            position: "right",
           },
         ],
       },

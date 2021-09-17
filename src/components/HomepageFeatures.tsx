@@ -1,36 +1,41 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./HomepageFeatures.module.css";
+import Translate from "@docusaurus/Translate";
 
 const FeatureList = [
   {
-    title: "Exchange",
+    title: <Translate description="feature exchange title">Exchange</Translate>,
     Svg: require("../../static/img/swap_horiz_black.svg").default,
     description: (
-      <>
+      <Translate description="feature exchange description">
         Token swaps on Cmdswap are a simple way to trade on the Arbitrum network
         for another via automated liquidity pools.
-      </>
+      </Translate>
     ),
   },
   {
-    title: "Farms",
+    title: <Translate description="feature farms title">Farms</Translate>,
     Svg: require("../../static/img/grass_black.svg").default,
     description: (
-      <>
-        Yield Farms allow users to earn CMDS while supporting PancakeSwap by
-        staking LP Tokens.
-      </>
+      <Translate description="feature farms description">
+        Yield Farms allow users to earn CMDS while supporting CmdSwap by staking
+        LP Tokens.
+      </Translate>
     ),
   },
   {
-    title: "Liquidity Pool",
+    title: (
+      <Translate description="feature liquidity pool title">
+        Liquidity Pool
+      </Translate>
+    ),
     Svg: require("../../static/img/hourglass_top_black.svg").default,
     description: (
-      <>
+      <Translate description="feature liquidity pool description">
         When you add your token to a Liquidity Pool you will receive Liquidity
         Provider (LP) tokens and share in the fees.
-      </>
+      </Translate>
     ),
   },
 ];

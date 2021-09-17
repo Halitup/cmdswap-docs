@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Contact Us": {
+    "message": "Contact Us",
+    "description": "The label for category Contact Us in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Products": {
+    "message": "Products",
+    "description": "The label for category Products in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Safu": {
+    "message": "Safu",
+    "description": "The label for category Safu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tokenomics": {
+    "message": "Tokenomics",
+    "description": "The label for category Tokenomics in sidebar tutorialSidebar"
+  }
+}

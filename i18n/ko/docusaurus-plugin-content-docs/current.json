@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Contact Us": {
+    "message": "우리에게 연락하세요",
+    "description": "The label for category Contact Us in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Products": {
+    "message": "제품",
+    "description": "The label for category Products in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Safu": {
+    "message": "Safu",
+    "description": "The label for category Safu in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tokenomics": {
+    "message": "토크노믹스",
+    "description": "The label for category Tokenomics in sidebar tutorialSidebar"
+  }
+}
