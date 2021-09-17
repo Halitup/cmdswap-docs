@@ -6,7 +6,7 @@ description: Cmdswap community
 slug: /community
 ---
 
-Our community is an integral part of our development. Our community is an integral part of our development.
+Our community is an integral part of our development.
 
 **Join our official social media profiles and stay up-to-date with the latest news and updates:**
 

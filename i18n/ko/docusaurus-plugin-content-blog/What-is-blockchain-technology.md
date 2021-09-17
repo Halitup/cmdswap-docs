@@ -1,42 +1,62 @@
 ---
-title: What is blockchain technology?
-description: What is blockchain technology?
-slug: What-is-blockchain-technology
+title: 블록체인 기술이란?
+description: 블록체인 기술이란?
+slug: 블록체인-기술이란
 authors: [haga]
-tags: [Blockchain, Beginner]
+tags: [블록체인, 입문자]
 ---
 
-## 1. What is blockchain technology?
+## 1. 블록체인 기술이란?
 
-Blockchain technology is a data storage technology that cannot be forged, changed, or hacked in summary with data distribution processing technology.
-Satoshi Sakamoto recognized the risks of the centralized financial system through the 2007 global financial crisis and devised a blockchain technology that enables transactions between individuals.
-In 2009, we developed Bitcoin, a cryptocurrency, by applying blockchain technology.
-This is the beginning of blockchain technology and the birth of Bitcoin, a cryptocurrency.
-Current financial transactions, for example, store and prove financial records in a huge system called banks, and all consumers who do business with banks suffer losses in the event of accidents such as bankruptcy, hacking, and natural disasters, but conversely, in the case of blockchain technology,
-It is a technology that allows safe and transparent transactions without having to go through intermediaries by distributing and storing records on numerous computers without storing them in one system.
-Each computer has the advantage of being able to encrypt and store records, so hacking is impossible because it is virtually impossible to hack all encrypted computers even if you try to hack.
+데이터 분산 처리 기술로 요약하면 위조,변조,해킹이 불가능한 데이터 저장 기술입니다.
 
-### 1-1. Type of blockchain.
+사카모토 사토시가 2007년 글로벌 금융위기 사태를 통해 중앙집권화된 금융시스템의 위험성을 인지하고 개인 간 거래가 가능한 블록체인 기술을 고안하여 2009년에 블록체인 기술을 적용해 암호화폐인 비트코인을 개발했습니다.
 
-Blockchain is largely divided into public blockchain and private blockchain. The public blockchain is open to everyone and anyone can participate, and virtual currencies such as Bitcoin and Ethereum are representative.
-The private blockchain is operated by an institution or company and can only be used by those who have obtained prior permission. It has the advantage of being relatively fast because the number of participants is limited.
+이것이 바로 블록체인 기술의 시초이며 암호화폐인 비트코인의 탄생입니다.
 
-### 1-2. Blockchain Utilization Plan.
+예를 들면 현재의 금융거래는 전부 은행이라는 거대한 시스템에 금융 기록을 보관하고 증명하는 방식으로 파산, 해킹, 자연재해 등 사고가 발생할 경우 은행과 이를 통해 거래를 하는 모든 관계자가 손해를 보는 방식이지만 블록체인 기술의 경우는 이와 상반되는 방식으로 하나의 시스템에만 기록을 보관하지 않고 수많은 컴퓨터에 기록을 분산 저장시켜 중재자를 통하지 않고도 안전하고 투명한 거래가 가능하게 만들어주는 기술입니다.
 
-Since the information stored in the blockchain is diverse, there is also a wide area where the blockchain can be used.
-In general, it is used for virtual currency that stores currency transactions as blocks, transmits transactions to all users participating in the transaction, and prevents data forgery by comparing them with each transaction.
-It can also be used in various areas that require reliability, such as electronic payment and digital certification, cargo tracking system, P2P loan, distribution origin or genuine art sentiment, anti-counterfeiting, electronic voting, electronic citizenship issuance, vehicle sharing, real estate register, and hospital-to-hospital medical records.
+또한 각각의 컴퓨터마다 기록을 암호화하여 저장하기 때문에 해킹을 시도 하여도 암호화된 모든 컴퓨터를 해킹하는 것은 사실상 불가능 하며 은행과 같은 중앙 관리자가 필요 없다는 장점도 가지고 있습니다.
 
-### 1-3. Terms related to blockchain.
+### 1-1. 블록체인의 종류
 
-- `Block`
+블록체인은 크게 퍼블릭 블록체인과 프라이빗 블록체인으로 나뉩니다. 퍼블릭 블록체인은 모두에게 개방돼 누구나 참여할 수 있는 형태로 비트코인, 이더리움 등 가상통화가 대표적이며 프라이빗 블록체인은 기관 또는 기업이 운영하며 사전에 허가를받은 사람만 사용할 수 있습니다. 참여자 수가 제한돼 있어 상대적으로 속도가 빠른 장점을 가지고 있습니다.
 
-  A block is a unit for storing data and is divided into a body and a header. The body contains transaction details, and the header contains encryption codes such as Merklehash or nonce (any number related to encryption). Blocks are generated every about 10 minutes, and they are connected to the previous block while verifying reliability by attracting transaction records to form a blockchain. The block that first started here is called the Genesis block. In other words, the Genesis block refers to the first block in which no block was created in front of it.
+### 1-2. 블록체인의 활용
 
-- `Node`
+블록체인에 저장하는 정보는 다양하기 때문에 블록체인을 활용할 수 있는 분야도 매우 광범위합니다.
 
-  Blockchain does not store and manage transaction records on a centralized server, but individual servers participating in transactions gather to maintain and manage the network. This individual server, that is, the participant, is called a node. Since there is no central manager, the role of the node distributing the block is important, and a new block is created only with the consent of at least half of the participating nodes. Nodes have blockchain stored on their computers, and even if some nodes are hacked and the existing content is wrong, data remains in many nodes, so data can be preserved continuously.
+대표적으로 가상통화에 사용되는데, 이때는 블록에 금전 거래 내역을 저장해 거래에 참여하는 모든 사용자에게 거래 내역을 보내주며 거래 때마다 이를 대조해 데이터 위조를 막는 방식을 사용합니다.
 
-- `Hash function`
+이 외에도 전자 결제나 디지털 인증뿐만 아니라 화물 추적 시스템, P2P 대출, 원산지부터 유통까지 전 과정을 추적하거나 예술품의 진품 감정, 위조화폐 방지, 전자투표, 전자시민권 발급, 차량 공유, 부동산 등기부, 병원 간 공유되는 의료기록 관리 등 신뢰성이 요구되는 다양한 분야에 활용할 수 있습니다.
 
-  It is a function that derives results of the same length no matter what data is entered. It is unlikely that the derived result overlaps, and it is difficult to inversely estimate the input value as the result value. For this reason, comparing hash values can determine whether data changes have occurred. The hash function is a more advanced form of SHA-2 (SHA 256) after the first SHA (Secure Hash Algorithm)-1 was devised, which is used in the blockchain. SHA-2 results in 256 bits no matter what length of value is entered.
+### 1-3. 블록체인 관련 용어
+
+- `블록(Block)`
+
+블록은 데이터를 저장하는 단위로, 바디(body)와 헤더(header)로 구분됩니다.
+
+바디에는 거래 내용이, 헤더에는 머클해시(머클루트)나 넌스(nounce, 암호화와 관련되는 임의의 수) 등의 암호코드가 담겨 있다. 블록은 약 10분을 주기로 생성되며, 거래 기록을 끌어 모아 블록을 만들어 신뢰성을 검증하면서 이전 블록에 연결하여 블록체인 형태가 됩니다.
+
+여기서 처음 시작된 블록을 제네시스 블록이라고 부릅니다. 즉, 제네시스 블록은 그 앞에 어떤 블록도 생성되지 않은 최초의 블록을 말합니다.
+
+- `노드(Node)`
+
+블록체인은 중앙 집중형 서버에 거래 기록을 보관, 관리하지 않고 거래에 참여하는 개개인의 서버들이 모여 네트워크를 유지 관리합니다.
+
+이 개개인의 서버, 즉 참여자를 노드라고 합니다.
+
+중앙 관리자가 없기 때문에 블록을 배포하는 노드의 역할이 중요하며, 참여하는 노드들 가운데 절반 이상의 동의가 있어야 새 블록이 생성됩니다.
+
+노드들은 블록체인을 컴퓨터에 저장해 놓고 있는데, 일부 노드가 해킹을 당해 기존 내용이 틀어져도 다수의 노드에게 데이터가 남아 있어 계속적으로 데이터를 보존할 수 있습니다.
+
+- `해시함수(Hash function)`
+
+어떤 데이터를 입력해도 같은 길이의 결과를 도출하는 함수입니다.
+
+도출되는 결과가 중복될 가능성이 낮고, 결과 값으로 입력 값을 역으로 추정하기 어렵습니다.
+이 때문에 해시 값을 비교하면 데이터의 변경이 발생했는지 파악할 수 있습니다.
+
+해시함수는 SHA(Secure Hash Algorithm)-1이 처음 고안된 후 더 발전된 형태의 SHA-2(SHA 256)가 나왔는데, 이것을 블록체인에서 사용하고 있습니다.
+
+SHA-2는 어떤 길이의 값을 입력해도 결과가 256비트로 도출되는 알고리즘입니다.

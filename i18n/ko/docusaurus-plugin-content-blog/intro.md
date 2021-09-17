@@ -1,7 +1,7 @@
 ---
 title: Cmdswap을 소개합니다.
 description: Cmdswap을 소개합니다.
-slug: Cmdswap을 소개합니다.
+slug: Cmdswap을-소개합니다.
 authors: [dilrong]
 tags: [cmdswap, 소개]
 ---
