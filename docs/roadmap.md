@@ -23,7 +23,10 @@ slug: /roadmap
 
 ## Long Term
 
-- [ ] Merchandise Shop
 - [ ] Listing CMDS on CMC & CoinGecko
 - [ ] Initial Farm Offering
 - [ ] Strategic Partnerships
+
+## More Detail
+
+[Our Project Board](https://sharing.clickup.com/b/6-49682375-2/board)
