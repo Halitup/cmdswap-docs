@@ -121,6 +121,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       gtag: {
         trackingID: "GTM-NDFDNKW",
       },
+      googleAnalytics: {
+        trackingID: "G-ZR9VT27NMY",
+      },
     },
   }
 );
