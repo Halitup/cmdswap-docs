@@ -8,7 +8,7 @@
     "description": "Navbar item with label V1"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "ブログ",
     "description": "Navbar item with label Blog"
   }
 }
