@@ -48,3 +48,6 @@ Transactions include the following:
 5. Maximum number of operation steps allowed for transaction execution.
 6. Expenses paid by the transaction sender for each operation step.
 The above three items are values used as the standard for cryptocurrency, and the data field must include the limit and price of transaction fees called gas in all transactions.
+
+- Gas fee: Gas is a fee that must be paid by the sender of the coin for all tasks done on the Ethereum blockchain.
+The name is said to have been inspired by the fact that fees act as crypto fuels that drive the movement of smart contracts, meaning that gas, a fee, is needed for the Ethereum network to work.
